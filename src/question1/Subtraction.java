@@ -1,0 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package question1;
+
+/**
+ *
+ * @author S542000
+ */
+public class Subtraction extends MyClass 
+{ 
+  void calculate(int a, int b)
+  { 
+    int y = a - b; 
+    System.out.println("Subtract: " +y); 
+  } 
+} 
